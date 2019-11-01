@@ -2,7 +2,7 @@
 
 This is a fun little project in C++ to implement a depth-limited version of the A star algorithm in order to find the number of steps required to reach the final configuration.
 
-The initial state is a randomly generated reachable state. The 4 things we are most interested in are 
+The initial state is a randomly generated reachable state. The 4 configurations we are most interested in are 
 
 1. Normal Depth(=1), Heuristic: Tile Mismatch
 
@@ -12,7 +12,9 @@ The initial state is a randomly generated reachable state. The 4 things we are m
 
 4. User-specified depth, Heuristic: Manhattan Distance
 
-The program checks the running times, maximum number of elements in the fringe, and number of nodes expanded (other than the number of moves to get to the final state). 
+The program checks the running times, maximum number of elements in the fringe, and number of nodes expanded (other than the number of moves to get to the final state) for each of the configurations. 
 
 ![User Interface](https://github.com/soundarya98/8PuzzleProblem/blob/master/8PuzzleInterface.png)
+
+In order to run the code, download all the files to a single folder, and run the make file.
 
