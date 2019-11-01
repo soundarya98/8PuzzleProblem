@@ -14,5 +14,5 @@ The initial state is a randomly generated reachable state. The 4 things we are m
 
 The program checks the running times, maximum number of elements in the fringe, and number of nodes expanded (other than the number of moves to get to the final state). 
 
-![User Interface]()
+![User Interface](https://github.com/soundarya98/8PuzzleProblem/blob/master/8PuzzleInterface.png)
 
